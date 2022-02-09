@@ -6,6 +6,8 @@
 <meta charset="UTF-8">
 <!-- 새로 만든 css 파일을 참조 -->
 <link rel="stylesheet" href="css/custom.css">
+<!-- css적용 -->
+<link rel="stylesheet" href="css/custom.css">
 <title>home</title>
 </head>
 <body>
